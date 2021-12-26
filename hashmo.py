@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
-# Hash Identifier
-# By Zion3R
-# www.Blackploit.com
-# Root@Blackploit.com
+# hashmo
+# By Moulik
+# www.techyrick.com
 
 from builtins import input
 from sys import argv, exit
