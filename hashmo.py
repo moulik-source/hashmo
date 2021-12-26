@@ -1,26 +1,22 @@
 #!/usr/bin/env python
 # encoding: utf-8
 # hashmo
-# By Moulik
+# By moulik
 # www.techyrick.com
 
 from builtins import input
 from sys import argv, exit
 
-version = 1.2
+version = 0.1
 
 logo='''   #########################################################################
-   #                                                                       #
-   #          _                  _                                         #
+   #           _                  _                                        #
    #          | |__    __ _  ___ | |__   _ __ ___    ___                   #
    #          | '_ \  / _` |/ __|| '_ \ | '_ ` _ \  / _ \                  #
    #          | | | || (_| |\__ \| | | || | | | | || (_) |                 #
-   #          |_| |_| \__,_||___/|_| |_||_| |_| |_| \___/                  #
-   #                                                                       #
-   #                       #In memory of steven hacking                    #
-   #                                                                       #                                
+   #          |_| |_| \__,_||___/|_| |_||_| |_| |_| \___/      v'''+str(version)+''' #
    #                                                             By Moulik #
-   #                                                     www.techyrick.com #
+   #                                                    www.techyrick.com  #
    #                                    https://twitter.com/HacklikeHacker #
    #########################################################################'''
 
